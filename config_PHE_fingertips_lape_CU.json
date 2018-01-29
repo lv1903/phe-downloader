@@ -1,0 +1,9 @@
+{
+    "url": "http://livews-a.phe.org.uk/GetDataDownload.ashx?pid=87&ati=102&res=87&tem=87&par=E92000001&pds=0&pat=6", 
+    "sheet": "County & UA", 
+    "output_path": "C:/dev/PHE_Fingertips_Import_Process/", 
+	"output_filename": "output_CU.csv",
+    "required_indicators": [],
+	"profile": "Local Alcohol Profiles for England",
+	"download_version": ""
+}
